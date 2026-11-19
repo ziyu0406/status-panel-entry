@@ -4,8 +4,8 @@ This repository hosts only a small public entry page. The actual panel retains i
 
 <!-- ROBOT_PANEL_ENTRY_BEGIN -->
 
-[打开状态面板](https://deny-kent-jumping-subsequently.trycloudflare.com/)
+[打开状态面板](https://unto-camp-specials-privileges.trycloudflare.com/)
 
-入口更新：2026-11-20 00:24:23 北京时间
+入口更新：2026-11-20 06:25:22 北京时间
 
 <!-- ROBOT_PANEL_ENTRY_END -->
